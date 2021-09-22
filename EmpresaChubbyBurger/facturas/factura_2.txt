@@ -1,0 +1,8 @@
+Numero de factura: 2
+Numero de la mesa: 1
+Hamburguesas Pequeñas: 1
+Hamburguesas Medianas: 1
+Hamburguesas Grandes: 0
+Costo sin IVA: 18.0
+Costo del IVA: 0.9
+Costo total con IVA: 18.9

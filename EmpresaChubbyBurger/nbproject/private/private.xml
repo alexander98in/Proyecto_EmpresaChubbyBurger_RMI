@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/7mo%20Semestre/Laboratorio%20de%20Sistemas%20Distribuidos/Parcial%2002/EmpresaChubbyBurger/src/servidorNotificaciones/utilidades/UtilidadesConsola.java</file>
+            <file>file:/D:/7mo%20Semestre/Laboratorio%20de%20Sistemas%20Distribuidos/Parcial%2002/EmpresaChubbyBurger/src/cliente/vista/GUIConectar.java</file>
+            <file>file:/D:/7mo%20Semestre/Laboratorio%20de%20Sistemas%20Distribuidos/Parcial%2002/EmpresaChubbyBurger/src/administrador/ClienteDeObjetos.java</file>
+            <file>file:/D:/7mo%20Semestre/Laboratorio%20de%20Sistemas%20Distribuidos/Parcial%2002/EmpresaChubbyBurger/src/administrador/sop_rmi/AdministradorNotificacionImpl.java</file>
+            <file>file:/D:/7mo%20Semestre/Laboratorio%20de%20Sistemas%20Distribuidos/Parcial%2002/EmpresaChubbyBurger/src/cliente/vista/GUICliente.java</file>
+            <file>file:/D:/7mo%20Semestre/Laboratorio%20de%20Sistemas%20Distribuidos/Parcial%2002/EmpresaChubbyBurger/src/administrador/sop_rmi/AdministradorNotificacionInt.java</file>
+            <file>file:/D:/7mo%20Semestre/Laboratorio%20de%20Sistemas%20Distribuidos/Parcial%2002/EmpresaChubbyBurger/src/servidorNotificaciones/sop_rmi/GestionNotificacionImpl.java</file>
+            <file>file:/D:/7mo%20Semestre/Laboratorio%20de%20Sistemas%20Distribuidos/Parcial%2002/EmpresaChubbyBurger/src/servidorNotificaciones/utilidades/UtilidadesRegistroS.java</file>
+            <file>file:/D:/7mo%20Semestre/Laboratorio%20de%20Sistemas%20Distribuidos/Parcial%2002/EmpresaChubbyBurger/src/servidorNotificaciones/dto/Pedido.java</file>
+            <file>file:/D:/7mo%20Semestre/Laboratorio%20de%20Sistemas%20Distribuidos/Parcial%2002/EmpresaChubbyBurger/src/cliente/utilidades/UtilidadesRegistroC.java</file>
+            <file>file:/D:/7mo%20Semestre/Laboratorio%20de%20Sistemas%20Distribuidos/Parcial%2002/EmpresaChubbyBurger/src/servidorPedidos/sop_rmi/GestionPedidosImpl.java</file>
+            <file>file:/D:/7mo%20Semestre/Laboratorio%20de%20Sistemas%20Distribuidos/Parcial%2002/EmpresaChubbyBurger/src/servidorNotificaciones/sop_rmi/GestionNotificacionInt.java</file>
+            <file>file:/D:/7mo%20Semestre/Laboratorio%20de%20Sistemas%20Distribuidos/Parcial%2002/EmpresaChubbyBurger/src/servidorNotificaciones/servidor/ServidorDeObjetos.java</file>
+            <file>file:/D:/7mo%20Semestre/Laboratorio%20de%20Sistemas%20Distribuidos/Parcial%2002/EmpresaChubbyBurger/src/cliente/ClienteDeObjeos.java</file>
+            <file>file:/D:/7mo%20Semestre/Laboratorio%20de%20Sistemas%20Distribuidos/Parcial%2002/EmpresaChubbyBurger/src/servidorNotificaciones/dto/HamburguesaNotificacionDTO.java</file>
+        </group>
+    </open-files>
+</project-private>
